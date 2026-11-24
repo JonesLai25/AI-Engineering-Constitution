@@ -6,8 +6,10 @@ PUBLIC_FILE_LIST.txt
 README.md
 RESEARCH_QUESTIONS.md
 USAGE.md
+constitution/COMPLETE_CHARTER.md
 constitution/ENGINEERING_CHARTER.md
 constitution/PROJECT_CHARTER.md
+constitution/user-supplements/p06-delivery.md
 constitution/user-supplements/p17-p20.md
 constitution/user-supplements/p21.md
 constitution/user-supplements/p22.md
@@ -15,6 +17,7 @@ constitution/versions/ENGINEERING_CHARTER-17381c849837.md
 constitution/versions/ENGINEERING_CHARTER-9a78de3fc6c1.md
 constitution/versions/ENGINEERING_CHARTER-bb86c4084aaf.md
 constitution/versions/INDEX.json
+examples/AGENTS.md
 observations/README.md
 observations/metadata.json
 observations/token_usage.csv
