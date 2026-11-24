@@ -1,0 +1,8 @@
+{
+  "source_record_type": "token_usage_record",
+  "events_exported": 2183,
+  "turns_represented": 17,
+  "invalid_or_incomplete_records": 0,
+  "deduplication": "TokenCountEvent omitted to avoid double counting; no claim that usage records are billable totals",
+  "identifiers_timestamps_and_content": "removed"
+}

@@ -1,0 +1,32 @@
+[
+  {
+    "file": "references/PROJECT_CHARTER.md",
+    "commit": "a268f25a9bfe553ef64b1c163aad3bb72c640d10",
+    "sha256": "3c77afec68e7c04d65c356f7630708b0ff52a19a6a7eeb106e74cefdf1fe0caf",
+    "snapshot": "../PROJECT_CHARTER.md"
+  },
+  {
+    "file": "ENGINEERING_CHARTER.md",
+    "commit": "78dc855afc4ec5cee731c28c9d056ef15c09f5bb",
+    "sha256": "55cf4257cd7c640367959735e675696580dc4c1f33d926b83f3c5f9d476033ee",
+    "snapshot": "../ENGINEERING_CHARTER.md"
+  },
+  {
+    "file": "ENGINEERING_CHARTER.md",
+    "commit": "ab7f022e64f52a055daee7b124cc8e605057ed62",
+    "sha256": "17381c8498370b700a5d63775c7e454ddb835516bf5f8a35d3d72e78a1470f11",
+    "snapshot": "ENGINEERING_CHARTER-17381c849837.md"
+  },
+  {
+    "file": "ENGINEERING_CHARTER.md",
+    "commit": "aa76692ac5040a23c3508440ceafd89a4c4f6953",
+    "sha256": "9a78de3fc6c1de61f4ca3c611cc0e65bc7ef3314c34701dac2f9074bc9377081",
+    "snapshot": "ENGINEERING_CHARTER-9a78de3fc6c1.md"
+  },
+  {
+    "file": "ENGINEERING_CHARTER.md",
+    "commit": "91eb5933a6eac213e08f04c0445a5a07c07ec395",
+    "sha256": "bb86c4084aafae214b559622c76212ec9eb10c14eaf66bfe51f12ef5534f0f5c",
+    "snapshot": "ENGINEERING_CHARTER-bb86c4084aaf.md"
+  }
+]
