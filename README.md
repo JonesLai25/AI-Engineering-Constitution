@@ -10,6 +10,7 @@
 
 目前工具不能完整觀察 Codex Agent 的內部推理或決策。憲章作用機制、各原則的個別貢獻、消耗成因、跨模型與翻譯版本的等效性均未知。本資料提供工程案例與可證偽問題，供研究者重現、分析、改良或反駁；不補造缺失資料。
 
+- [工程憲章的思想淵源：從工程師的自我修為到 AI 工程治理](THOUGHT_ORIGINS.md)
 - [工程憲章與補充原文整合閱讀版](constitution/COMPLETE_CHARTER.md)及 [AGENTS.md 使用範例](examples/AGENTS.md)
 - [實際使用的原始憲章](constitution/PROJECT_CHARTER.md)及[專案補充](constitution/ENGINEERING_CHARTER.md)
 - [歷史版本與使用者原文補充](constitution/versions/INDEX.json)
