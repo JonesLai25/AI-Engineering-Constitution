@@ -10,6 +10,15 @@
 
 目前工具不能完整觀察 Codex Agent 的內部推理或決策。憲章作用機制、各原則的個別貢獻、消耗成因、跨模型與翻譯版本的等效性均未知。本資料提供工程案例與可證偽問題，供研究者重現、分析、改良或反駁；不補造缺失資料。
 
+## 通用工程憲章版本
+
+- [最新版：通用工程憲章 v1.1（P01～P23）](constitution/GENERAL_CONSTITUTION_V1.1.md)
+- [通用工程憲章 v1.0（P01～P22）](constitution/GENERAL_CONSTITUTION_V1.0.md)
+
+v1.1 新增 P23「已足則止，無益不為」，引入奧卡姆剃刀、有限理性、資訊價值、邊際效益及最小充分智慧原則，強化工程收斂、模型選擇及資源調度能力。v1.1 已完成本機全域部署及新 Session 載入驗證；實際成本改善效果仍待透過正常工程活動觀察。
+
+## 原始資料與研究
+
 - [工程憲章的思想淵源：從工程師的自我修為到 AI 工程治理](THOUGHT_ORIGINS.md)
 - [工程憲章與補充原文整合閱讀版](constitution/COMPLETE_CHARTER.md)及 [AGENTS.md 使用範例](examples/AGENTS.md)
 - [實際使用的原始憲章](constitution/PROJECT_CHARTER.md)及[專案補充](constitution/ENGINEERING_CHARTER.md)
