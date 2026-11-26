@@ -11,6 +11,7 @@ constitution/COMPLETE_CHARTER.md
 constitution/ENGINEERING_CHARTER.md
 constitution/GENERAL_CONSTITUTION_V1.0.md
 constitution/GENERAL_CONSTITUTION_V1.1.md
+constitution/GENERAL_CONSTITUTION_V1.2.md
 constitution/PROJECT_CHARTER.md
 constitution/user-supplements/p06-delivery.md
 constitution/user-supplements/p17-p20.md
